@@ -61,7 +61,7 @@ Contoh:
 
 ---
 
-## 🚀 Cara Menjalankan
+## Cara Menjalankan
 
 1⃣ Pastikan Ruby terinstall:
 
@@ -84,7 +84,7 @@ test/input1.txt
 
 ---
 
-## 🧪 Bagian Testing
+## Testing
 
 ### Contoh Testcase 1
 
