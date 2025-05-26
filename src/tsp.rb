@@ -27,7 +27,6 @@ def tsp(n, graph)
   res
 end
 
-# === TANYA NAMA FILE DI TERMINAL ===
 print "Masukkan nama file input: "
 input_file = gets.strip
 
@@ -41,5 +40,4 @@ end
 n = lines[0].to_i
 graph = lines[1..n].map { |line| line.split.map(&:to_i) }
 
-# === JALANKAN TSP DAN PRINT HASIL ===
 puts "Minimum tour cost: #{tsp(n, graph)}"
