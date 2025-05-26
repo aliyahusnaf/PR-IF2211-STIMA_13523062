@@ -14,9 +14,7 @@ Tugas ini mengimplementasikan penyelesaian **Traveling Salesman Problem (TSP)** 
 
 ## Traveling Salesman Problem (TSP)
 
-Traveling Salesman Problem (TSP) adalah salah satu masalah optimisasi kombinatorial terkenal di mana:
-
-* Diberikan sejumlah kota dan jarak antar kota, lalu ingin dicari rute perjalanan **paling pendek** yang:
+Traveling Salesman Problem (TSP) adalah salah satu masalah optimisasi kombinatorial terkenal di mana diberikan sejumlah kota dan jarak antar kota, lalu ingin dicari rute perjalanan **paling pendek** yang:
   1. Berawal dari satu kota.
   2. Mengunjungi semua kota **sekali saja**.
   3. Kembali ke kota asal.
